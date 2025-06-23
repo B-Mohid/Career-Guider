@@ -21,7 +21,7 @@ const firebaseConfig = {
   authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN || "your-journey-begins.firebaseapp.com",
   projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID || "your-journey-begins",
   storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET || "your-journey-begins.firebasestorage.app",
-  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID || "988149089844",
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID || "908988814944",
   appId: import.meta.env.VITE_FIREBASE_APP_ID || "1:988149089844:web:c480804a55aba8444f6c61",
   measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID || "G-3TKSNC0XTK"
 };
