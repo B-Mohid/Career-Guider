@@ -1,9 +1,11 @@
 {
+ 
   "name": "your-journey-begins",
   "description": "A React application to track your journey with Firebase integration.",
   "main": "index.js",
   "repository": {
     "type": "git",
+
     "url": " https://github.com/B-Mohid/Career-Guider.git"
   },
   "private": true,
