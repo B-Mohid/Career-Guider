@@ -1269,8 +1269,8 @@ const App = () => {
                   </div>
                 )}
               </div>
-            ) : (
-              <>
+            )  :
+            (
                 <section className="animate-fadeIn">
                   <button
                     onClick={() => setSelectedCareer(null)}
@@ -1464,8 +1464,8 @@ const App = () => {
                     </div>
                   )}
                 </section>
-              </>
-            )}
+            )
+            }
 
             {activeSection === 'my-journey' && (
               <section className="section active animate-fadeIn">
@@ -1683,6 +1683,8 @@ const App = () => {
                 </p>
               </section>
             )}
+            </section>
+        )}
           </main>
         </div> 
   );
