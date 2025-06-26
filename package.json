@@ -1,6 +1,6 @@
 {
   "name": "your-journey-begins",
-  "version": "1.0.0",
+  
   "description": "A React application to track your journey with Firebase integration.",
   "main": "index.js",
   "repository": {
